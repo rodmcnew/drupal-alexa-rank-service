@@ -1,0 +1,8 @@
+{
+  "name": "drupal/alexa_rank_service",
+  "description": "Provides a PHP API service for looking up website rankings through Alexa.",
+  "require": {
+    "simple-alexa-rank/simple-alexa-rank": ">=1.0.1"
+  },
+  "license": "BSD-3-Clause"
+}

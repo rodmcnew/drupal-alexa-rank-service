@@ -1,0 +1,5 @@
+name: Alexa Rank Service
+description: Provides a PHP API service for looking up website rankings through Alexa.
+type: module
+core: 8.x
+package: Alexa Rank Service

@@ -1,0 +1,3 @@
+services:
+  alexa_rank:
+    class: SimpleAlexaRank\SimpleAlexaRank\SimpleAlexaRank
